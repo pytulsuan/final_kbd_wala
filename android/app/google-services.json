@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "31566576594",
+    "project_id": "finalkbdwala",
+    "storage_bucket": "finalkbdwala.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:31566576594:android:505ba2388ba68c7b06260b",
+        "android_client_info": {
+          "package_name": "com.example.final_kbd_wala"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "31566576594-t4ohmi1kg64ku6n62tat5e1r5pn18ea6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCw4V9lniInZx6QaFxGdJkqfQEq4m7fy4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "31566576594-t4ohmi1kg64ku6n62tat5e1r5pn18ea6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
